@@ -1,0 +1,11 @@
+BlackID,Label,EqAdj,DebtAdj,GoldAdj,CashAdj,Notes
+W1,Rate hike +75 bps,-5,-3,3,0,Debt short +1 (ignored)
+W2,Crude +40%,-10,-6,8,1,
+W3,FII outflows; INR weak,-8,-5,6,1,Debt credit risk
+W4,IPO frenzy,7,0,-2,0,Temporary
+W5,NBFC default,-6,-12,5,0,Govt debt +3 (not modeled)
+W6,Corporate tax cut,12,-4,-2,0,
+W7,Flash crash,-10,2,3,0,Intraday
+W8,Dollar up; INR weak,-3,0,4,0,Exporters benefit
+W9,ESG rotation,3,0,0,0,Sectoral
+W10,Global policy pivot,10,4,-3,0,

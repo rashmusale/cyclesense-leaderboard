@@ -1,0 +1,13 @@
+CardID,Phase,EquityReturn,DebtReturn,GoldReturn,CashReturn,Notes
+G1,Green,25,8,0,0,1991-93 Early Recovery
+G2,Green,45,5,-2,0,2003-04 Bull ignition
+G6,Green,20,5,4,0,2023-24 New cycle
+B2,Blue,45,2,-3,0,2006-07 Pre-crisis euphoria
+B4,Blue,8,7,3,0,2018 Tightening begins
+B8,Blue,2,6,3,0,2023 End-of-expansion
+O3,Orange,-10,8,25,0,2011-12 Mid slowdown
+O7,Orange,-8,10,20,0,2018 Liquidity stress (Govt debt +10)
+O10,Orange,25,6,-2,0,2002-03 Transition to recovery
+R2,Red,-50,12,30,4,2008-09 GFC
+R5,Red,-35,9,25,3,2020 Pandemic shock
+R6,Red,60,5,10,0,2020-21 Liquidity recovery
